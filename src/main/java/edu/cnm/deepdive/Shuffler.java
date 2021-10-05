@@ -59,6 +59,19 @@ public class Shuffler {
     }
   }
 
-  // TODO Create overloads of shufflePart for boolean[], char[], short[], long[], float[], Object[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // TODO Create overloads of shufflePart for boolean[1], char[2], short[3], long[4], float[5], Object[6]
 
 }
